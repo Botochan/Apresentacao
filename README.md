@@ -6,6 +6,8 @@ Sou um profissional na área de logística e tecnologia de sistemas, apaixonado 
 
 ====  Oque estou aprendendo: React, HMTL, CSS, JavaScript, C++, C,  Banco de dados, lógica de programação, arquivos padrão PROCEDA (NOTFIS,OCOREN,CONEMB,DOCCOB)
 
+==== Trabalhos: Já fiz uma calculadora em python, site de música com a orientação de IA, site nos estilos de FIGMA, TRELLO e Miro
+
 === 📫 Onde me encontrar
 
 E-mail: fabriciorozoliveira@gmail.com
